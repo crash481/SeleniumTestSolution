@@ -1,0 +1,11 @@
+c:\users\олег\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\олег\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\олег\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.dll
+c:\users\олег\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.Support.dll
+c:\users\олег\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.xml
+c:\users\олег\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.Support.xml
+c:\users\олег\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\users\олег\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\олег\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Олег\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\nunit.framework.dll
+C:\Users\Олег\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\nunit.framework.xml
